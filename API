@@ -1,0 +1,35 @@
+{
+  "app": {
+    "name": "My Flutter App",
+    "version": "1.0.0",
+    "description": "A sample Flutter application to demonstrate JSON usage.",
+    "author": "Your Name",
+    "homepage": "https://www.example.com"
+  },
+  "theme": {
+    "primaryColor": "#6200EE",
+    "secondaryColor": "#03DAC6",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000"
+  },
+  "items": [
+    {
+      "id": 1,
+      "title": "Item One",
+      "description": "This is the first item.",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "title": "Item Two",
+      "description": "This is the second item.",
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "title": "Item Three",
+      "description": "This is the third item.",
+      "price": 39.99
+    }
+  ]
+}
