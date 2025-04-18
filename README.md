@@ -1,1 +1,1 @@
-This Repo shows the API Documet Run by Katalon Studio.
+This Repo shows the API Document Run by Katalon Studio.
